@@ -76,3 +76,23 @@ button{
 .opperator{
     background-color: black;
 }
+
+
+
+
+
+.vercel{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+
+.vercel:hover {
+    background-color: #333333;
+}
